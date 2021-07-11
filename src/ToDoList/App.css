@@ -25,7 +25,7 @@ body{
 
 .child-div {
   text-align: center;
-  padding: 10px;
+  padding: 1rem;
 }
 
 .addItems>input {
@@ -49,7 +49,7 @@ input:focus,
 input:active,
 input:active:focus {
   border: none;
-  padding: 1.5rem;
+  padding: 1rem;
   outline: none;
 }
 
@@ -122,7 +122,7 @@ input:focus {
   color: rgb(251, 251, 251);
   -webkit-transition: color 0.15s linear;
   transition: color 0.15s linear;
-  font-size: 2rem;
+  font-size: 0.8rem;
 padding-right:2px;
 padding-left:2px;
 }
